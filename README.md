@@ -1,5 +1,4 @@
 # 100-Days-to-Amazon
 
-# 1) Three Sum
-# 2) Merge two Sorted List
-# 3)
+#Contains 100 Programming questions that have ben asked in previous interviews in companies like:
+Amazon, Google, Facebook, Qualcomm, Verizon, Nvidia.
